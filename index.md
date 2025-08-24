@@ -25,7 +25,7 @@ I'm a rising senior studying Computer Science at Hunter College who is passionat
 ## Links
 [Resume](https://www.canva.com/design/DAGMBMn-xpI/rMytHLjRxwgidhc3Dr-hMg/edit?utm_content=DAGMBMn-xpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[LinkedIn](www.linkedin.com/in/jessica-chen-062ab3217)
+[LinkedIn](https://www.linkedin.com/in/jessica-chen-062ab3217)
 
 [GitHub](https://github.com/X1ng1)
 
