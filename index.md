@@ -12,7 +12,9 @@ Quick links:
 ## About
 
 I'm a rising senior studying Computer Science at Hunter College who is passionate about developing practical, user-friendly solutions.
+
 - Fun fact: There are a thousand hobbies I want to go into, but I just don't have the time for them.
+
 ---
 
 ## Projects
